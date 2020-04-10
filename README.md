@@ -1,2 +1,2 @@
 # GitIDEA
-测试IDEA
+在IDEA上测试git的使用
